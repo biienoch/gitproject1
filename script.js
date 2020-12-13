@@ -1,2 +1,6 @@
-const a =100;
+
+
 const myfuc =() =>100;
+
+const a ='hi there'
+
